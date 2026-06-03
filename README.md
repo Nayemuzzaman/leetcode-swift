@@ -1,1 +1,1 @@
-Leetcode problem solve with swift
+Leetcode problem solved using swift
